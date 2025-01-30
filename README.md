@@ -1,5 +1,6 @@
 # CS:GO Player Performance Analysis – Data-Driven Insights into Esports  
 
+![CSGO Analysis Banner](CSGO Player Performance Analysis.png) 
  
 
 ## Project Overview  
