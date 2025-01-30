@@ -1,7 +1,5 @@
 # CS:GO Player Performance Analysis – Data-Driven Insights into Esports  
 
-![CSGO Analysis Banner](CSGO Player Performance Analysis.png) 
- 
 
 ## Project Overview  
 This project analyzes **Counter-Strike: Global Offensive (CS:GO) professional player data** to explore **performance trends, player ranking changes, and competitive insights**.  
