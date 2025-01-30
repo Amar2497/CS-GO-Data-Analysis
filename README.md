@@ -51,10 +51,21 @@ A histogram comparing KPR & DPR across all players.
 
 ##  Tech Stack Used  
 - **Python** 🐍  
-- **Pandas** (Data Cleaning & Manipulation)  
+- **Pandas** (Data Cleaning & Manipulation)
 - **Matplotlib** (Data Visualization)  
 - **Seaborn** (Enhanced Graphs)  
-- **Jupyter Notebook** (For EDA & Analysis)  
+- **Jupyter Notebook** (For EDA & Analysis)
+
+
+Future Work (Extending the Analysis)
+
+## This project is just the beginning!
+In the next phase, I will:
+✅ Compare top-performing players by year (Time-series analysis)
+✅ Analyze player ranking trends over multiple tournaments
+✅ Apply machine learning to predict top-ranked players
+
+🔍 Stay tuned for more updates!
 
 
 
