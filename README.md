@@ -17,7 +17,7 @@ As my first **game data analytics** project, I have used **Python, Pandas, and M
 
 ##  Dataset Information  
 - **Source:** Kaggle (CS:GO Pro Players Dataset)  
-- **Size:** Approx. `XX MB`, contains statistics on professional CS:GO players  
+- **Size:** Approx. `0.193 MB`, contains statistics on professional CS:GO players  
 - **Features Used:**
   - `Player`: Name of the player  
   - `KPR`: Kills Per Round (Main metric for player efficiency)  
