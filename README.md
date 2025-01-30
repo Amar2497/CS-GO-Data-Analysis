@@ -1,6 +1,6 @@
 # CS:GO Player Performance Analysis – Data-Driven Insights into Esports  
 
-![CSGO Analysis Banner](images/performance_chart.png)  
+ 
 
 ## Project Overview  
 This project analyzes **Counter-Strike: Global Offensive (CS:GO) professional player data** to explore **performance trends, player ranking changes, and competitive insights**.  
@@ -46,7 +46,7 @@ As my first **game data analytics** project, I have used **Python, Pandas, and M
   **Performance Distribution of Players**  
 A histogram comparing KPR & DPR across all players.  
 
-![Performance Chart](images/top_kd_ratio.png)  
+![Performance Chart](performance_chart.png)  
 
 ---
 
